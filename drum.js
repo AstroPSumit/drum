@@ -1,4 +1,4 @@
-sdocument.addEventListener("keypress", function(event) {keycompare(event.key);}); 
+document.addEventListener("keypress", function(event) {keycompare(event.key);}); 
 var target = document.querySelectorAll("button");
 var i = 0;
 for (i = 0; i<6; i++) {
